@@ -1,0 +1,1 @@
+Example code that accompanies an article about using various C++ template techniques to allow the unit testing of code that when working successfully causes a compilation failure.
